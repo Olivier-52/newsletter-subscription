@@ -1,0 +1,8 @@
+pandas
+plotly
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+joblib
