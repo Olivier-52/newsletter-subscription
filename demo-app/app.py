@@ -4,9 +4,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 import joblib
 
-DATA_URL = "./data/conversion_data_train.parquet"
-MODEL_DF_URL = "./data/models_summary.parquet"
-MODEL_URL = "./model/CatBoostClassifier.joblib"
+DATA_URL = "data/conversion_data_train.parquet"
+MODEL_DF_URL = "data/models_summary.parquet"
+MODEL_URL = "model/CatBoostClassifier.joblib"
 
 ### Config
 st.set_page_config(
